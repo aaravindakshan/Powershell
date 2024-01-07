@@ -1,1 +1,1 @@
-# The powershell script for OU Windows
+# The powershell script for Windows. 
